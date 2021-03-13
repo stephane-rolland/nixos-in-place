@@ -1,2 +1,2 @@
-services.openssh.permitRootLogin = "yes";
+services.openssh.permitRootLogin = "no";
 users.extraUsers.root.password = "nixos";
